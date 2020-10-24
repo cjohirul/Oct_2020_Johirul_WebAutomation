@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5d5f671-e52f-4ae1-a8c5-19566a468016" name="Default" comment="" />
+    <list default="true" id="e5d5f671-e52f-4ae1-a8c5-19566a468016" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/BrowserDriver/windows/chromedriver.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/CHANGELOG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/NOTICE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/client-combined-3.141.59-sources.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/client-combined-3.141.59.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/libs/byte-buddy-1.8.15.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/libs/commons-exec-1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/libs/guava-25.0-jre.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/libs/okhttp-3.11.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/libs/okio-1.14.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/selenium/selenium-server-standalone-3.141.59.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/animal-sniffer-annotations-1.14.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/ant-1.10.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/ant-launcher-1.10.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/aopalliance-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/checker-compat-qual-2.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/error_prone_annotations-2.1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/guava-25.1-android.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/guice-4.2.2-no_aop.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/hamcrest-core-1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/j2objc-annotations-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/javax.inject-1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/jcommander-1.78.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/jsr305-3.0.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/junit-4.12.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/snakeyaml-1.21.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/testng/testng-7.3.0.jar" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -9,6 +39,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -27,6 +60,7 @@
     <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -54,6 +88,11 @@
             </path>
             <path>
               <item name="OctJohirulWebAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OctJohirulWebAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OctJohirulWebAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -69,6 +108,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pchel\OctJohirulWebAutomation\BrowserDriver\windows" />
+      <recent name="C:\Users\Pchel\OctJohirulWebAutomation\lib\testng" />
+      <recent name="C:\Users\Pchel\OctJohirulWebAutomation\lib\selenium" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,11 +238,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33056873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21945946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21945946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
