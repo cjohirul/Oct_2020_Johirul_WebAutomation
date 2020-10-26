@@ -2,10 +2,11 @@ package HorizonNJBCBS;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class HomePage {
-
-    public static void main(String[] args) {
+@Test
+    public void testGetTitle() {
         String amazonUrl = "https://www.horizonnjhealth.com/";
         String browserDriverPath = "C:\\Users\\Pchel\\OctJohirulWebAutomation\\BrowserDriver\\windows\\chromedriver.exe";
         // Relative Path
